@@ -1,0 +1,383 @@
+SCHOOL_YEAR,SCHOOL_NAME,ASSESSMENT_TYPE,SUBJECT,TESTED_GRADE_SUBJECT,SUBGROUP,PERCENT_MEETING_OR_EXCEEDING_E,CENSUS_TRACT
+2016-17,Achievement Preparatory Academy PCS Wahler Place Middle School,PARCC,ELA,Grade 8,All,39.30%,9800.01
+2016-17,Achievement Preparatory Academy PCS Wahler Place Middle School,PARCC,Math,Grade 5,All,10.30%,9800.01
+2016-17,Achievement Preparatory Academy PCS Wahler Place Middle School,PARCC,Math,Grade 8,All,17.90%,9800.01
+2016-17,Achievement Preparatory Academy PCS Wahler Place Middle School,PARCC,ELA,Grade 5,All,29.00%,9800.01
+2016-17,Aiton ES,PARCC,Math,Grade 5,All,19.20%,7800.04
+2016-17,Aiton ES,PARCC,ELA,Grade 5,All,23.10%,7800.04
+2016-17,Amidon Bowen ES,PARCC,ELA,Grade 5,All,4.20%,10200
+2016-17,Amidon Bowen ES,PARCC,Math,Grade 5,All,10.40%,10200
+2016-17,Anacostia HS,PARCC,Math,Grades 9-12,All,1.10%,7600.01
+2016-17,Anacostia HS,PARCC,ELA,Grades 9-12,All,3.80%,7600.01
+2016-17,Ballou HS,PARCC,Math,Grades 9-12,All,0.00%,9800.03
+2016-17,Ballou HS,PARCC,ELA,Grades 9-12,All,8.90%,9800.03
+2016-17,Bancroft ES at Sharpe,PARCC,Math,Grade 5,All,25.00%,2700.01
+2016-17,Bancroft ES at Sharpe,PARCC,ELA,Grade 5,All,29.40%,2700.01
+2016-17,Barnard ES,PARCC,Math,Grade 5,All,26.20%,2200.02
+2016-17,Barnard ES,PARCC,ELA,Grade 5,All,55.40%,2200.02
+2016-17,BASIS DC PCS,PARCC,ELA,Grade 5,All,55.30%,5800
+2016-17,BASIS DC PCS,PARCC,ELA,Grades 9-12,All,71.40%,5800
+2016-17,BASIS DC PCS,PARCC,Math,Grade 5,All,50.90%,5800
+2016-17,BASIS DC PCS,PARCC,ELA,Grade 8,All,46.70%,5800
+2016-17,BASIS DC PCS,PARCC,Math,Grade 8,All,59.60%,5800
+2016-17,BASIS DC PCS,PARCC,Math,Grades 9-12,All,72.60%,5800
+2016-17,Beers ES,PARCC,ELA,Grade 5,All,30.40%,7600.04
+2016-17,Beers ES,PARCC,Math,Grade 5,All,14.30%,7600.04
+2016-17,Benjamin Banneker HS,PARCC,ELA,Grades 9-12,All,89.90%,3500
+2016-17,Benjamin Banneker HS,PARCC,Math,Grades 9-12,All,53.80%,3500
+2016-17,Brightwood EC,PARCC,Math,Grades 9-12,All,22.20%,2000.02
+2016-17,Brightwood EC,PARCC,Math,Grade 8,All,2.30%,2000.02
+2016-17,Brightwood EC,PARCC,ELA,Grade 8,All,10.80%,2000.02
+2016-17,Brightwood EC,PARCC,ELA,Grade 5,All,28.00%,2000.02
+2016-17,Brightwood EC,PARCC,Math,Grade 5,All,48.00%,2000.02
+2016-17,Brookland MS,PARCC,ELA,Grade 8,All,9.10%,9500.04
+2016-17,Brookland MS,PARCC,Math,Grades 9-12,All,5.10%,9500.04
+2016-17,Brookland MS,PARCC,Math,Grade 8,All,0.00%,9500.04
+2016-17,Brookland MS,PARCC,Math,Grades 9-12,All,5.10%,9500.04
+2016-17,Browne EC,PARCC,ELA,Grade 5,All,10.00%,8900.04
+2016-17,Browne EC,PARCC,ELA,Grade 8,All,10.70%,8900.04
+2016-17,Browne EC,PARCC,Math,Grade 5,All,6.70%,8900.04
+2016-17,Browne EC,PARCC,Math,Grade 8,All,7.10%,8900.04
+2016-17,Bruce Monroe ES at Park View,PARCC,Math,Grade 5,All,25.50%,3200
+2016-17,Bruce Monroe ES at Park View,PARCC,ELA,Grade 5,All,17.00%,3200
+2016-17,Burroughs ES,PARCC,ELA,Grade 5,All,25.00%,9400
+2016-17,Burroughs ES,PARCC,Math,Grade 5,All,31.30%,9400
+2016-17,Burrville ES,PARCC,Math,Grade 5,All,9.70%,7800.07
+2016-17,Burrville ES,PARCC,ELA,Grade 5,All,19.40%,7800.07
+2016-17,C W  Harris ES,PARCC,Math,Grade 5,All,2.70%,9900.05
+2016-17,C W  Harris ES,PARCC,ELA,Grade 5,All,8.10%,9900.05
+2016-17,Capital City PCS High School,PARCC,ELA,Grades 9-12,All,29.20%,1900.02
+2016-17,Capital City PCS High School,PARCC,Math,Grades 9-12,All,7.00%,1900.02
+2016-17,Capital City PCS Middle School,PARCC,ELA,Grade 8,All,36.60%,1900.02
+2016-17,Capital City PCS Middle School,PARCC,Math,Grade 8,All,0.00%,1900.02
+2016-17,Capital City PCS Middle School,PARCC,Math,Grades 9-12,All,27.60%,1900.02
+2016-17,Capital City PCS Middle School,PARCC,Math,Grades 9-12,All,27.60%,1900.02
+2016-17,Capital City PCS Middle School,PARCC,ELA,Grade 5,All,42.00%,1900.02
+2016-17,Capital City PCS Middle School,PARCC,Math,Grade 5,All,23.50%,1900.02
+2016-17,Cardozo EC,PARCC,Math,Grades 9-12,All,1.20%,3600
+2016-17,Cardozo EC,PARCC,ELA,Grade 8,All,8.60%,3600
+2016-17,Cardozo EC,PARCC,ELA,Grades 9-12,All,5.30%,3600
+2016-17,Center City PCS Congress Heights,PARCC,Math,Grade 5,All,28.60%,10400
+2016-17,Center City PCS Congress Heights,PARCC,ELA,Grade 5,All,25.00%,10400
+2016-17,Center City PCS Petworth,PARCC,Math,Grade 5,All,12.00%,2400
+2016-17,Center City PCS Petworth,PARCC,ELA,Grade 5,All,36.00%,2400
+2016-17,Cesar Chavez PCS for Public Policy Capitol Hill,PARCC,ELA,Grades 9-12,All,11.50%,7100
+2016-17,Cesar Chavez PCS for Public Policy Capitol Hill,PARCC,Math,Grades 9-12,All,1.00%,7100
+2016-17,Cesar Chavez PCS for Public Policy Chavez Prep,PARCC,ELA,Grade 8,All,17.40%,7100
+2016-17,Cesar Chavez PCS for Public Policy Chavez Prep,PARCC,Math,Grade 8,All,4.30%,7100
+2016-17,Cesar Chavez PCS for Public Policy Parkside High School,PARCC,ELA,Grades 9-12,All,19.40%,9600.02
+2016-17,Cesar Chavez PCS for Public Policy Parkside High School,PARCC,Math,Grades 9-12,All,0.00%,9600.02
+2016-17,Cesar Chavez PCS for Public Policy Parkside Middle School,PARCC,ELA,Grade 8,All,17.60%,9600.02
+2016-17,Cesar Chavez PCS for Public Policy Parkside Middle School,PARCC,Math,Grade 8,All,11.20%,9600.02
+2016-17,City Arts & Prep PCS,PARCC,Math,Grade 8,All,10.00%,9200.04
+2016-17,City Arts & Prep PCS,PARCC,ELA,Grade 5,All,37.50%,9200.04
+2016-17,City Arts & Prep PCS,PARCC,ELA,Grade 8,All,10.00%,9200.04
+2016-17,City Arts & Prep PCS,PARCC,Math,Grade 5,All,30.00%,9200.04
+2016-17,Cleveland ES,PARCC,ELA,Grade 5,All,27.80%,4400
+2016-17,Cleveland ES,PARCC,Math,Grade 5,All,25.00%,4400
+2016-17,Columbia Heights EC,PARCC,ELA,Grades 9-12,All,27.10%,2800.02
+2016-17,Columbia Heights EC,PARCC,ELA,Grade 8,All,32.60%,2800.02
+2016-17,Columbia Heights EC,PARCC,Math,Grades 9-12,All,11.30%,2800.02
+2016-17,Columbia Heights EC,PARCC,Math,Grades 9-12,All,12.60%,2800.02
+2016-17,Coolidge HS,PARCC,Math,Grades 9-12,All,1.40%,1900.02
+2016-17,Coolidge HS,PARCC,ELA,Grades 9-12,All,15.10%,1900.02
+2016-17,DC Bilingual PCS,PARCC,ELA,Grade 5,All,70.40%,9500.08
+2016-17,DC Bilingual PCS,PARCC,Math,Grade 5,All,55.60%,9500.08
+2016-17,DC International School,PARCC,Math,Grade 8,All,42.70%,1800.03
+2016-17,DC International School,PARCC,ELA,Grade 8,All,48.20%,1800.03
+2016-17,DC Preparatory Academy PCS Benning Middle School,PARCC,Math,Grade 5,All,30.60%,9600.03
+2016-17,DC Preparatory Academy PCS Benning Middle School,PARCC,ELA,Grade 5,All,26.00%,9600.03
+2016-17,DC Preparatory Academy PCS Edgewood Middle School,PARCC,ELA,Grade 8,All,78.00%,9600.03
+2016-17,DC Preparatory Academy PCS Edgewood Middle School,PARCC,Math,Grade 5,All,52.10%,9600.03
+2016-17,DC Preparatory Academy PCS Edgewood Middle School,PARCC,ELA,Grade 5,All,53.40%,9600.03
+2016-17,DC Preparatory Academy PCS Edgewood Middle School,PARCC,Math,Grade 8,All,68.00%,9600.03
+2016-17,Deal MS,PARCC,ELA,Grade 8,All,67.40%,1100
+2016-17,Deal MS,PARCC,Math,Grades 9-12,All,97.90%,1100
+2016-17,Deal MS,PARCC,Math,Grades 9-12,All,67.70%,1100
+2016-17,Deal MS,PARCC,Math,Grade 8,All,16.20%,1100
+2016-17,Deal MS,PARCC,Math,Grades 9-12,All,75.80%,1100
+2016-17,Democracy Prep Congress Heights PCS,PARCC,ELA,Grade 5,All,17.70%,10400
+2016-17,Democracy Prep Congress Heights PCS,PARCC,Math,Grade 5,All,8.10%,10400
+2016-17,Dorothy I Height ES,PARCC,ELA,Grade 5,All,28.60%,2500.01
+2016-17,Dorothy I Height ES,PARCC,Math,Grade 5,All,19.00%,2500.01
+2016-17,Duke Ellington School of the Arts,PARCC,Math,Grades 9-12,All,9.70%,300
+2016-17,Duke Ellington School of the Arts,PARCC,ELA,Grades 9-12,All,46.70%,300
+2016-17,Dunbar HS,PARCC,ELA,Grades 9-12,All,6.10%,4600
+2016-17,Dunbar HS,PARCC,Math,Grades 9-12,All,0.60%,4600
+2016-17,Eastern HS,PARCC,Math,Grades 9-12,All,1.00%,6800.01
+2016-17,Eastern HS,PARCC,ELA,Grades 9-12,All,20.00%,6800.01
+2016-17,Eaton ES,PARCC,ELA,Grade 5,All,75.70%,600
+2016-17,Eaton ES,PARCC,Math,Grade 5,All,71.40%,600
+2016-17,EL Haynes PCS High School,PARCC,ELA,Grades 9-12,All,30.60%,2400
+2016-17,EL Haynes PCS High School,PARCC,Math,Grades 9-12,All,19.70%,2400
+2016-17,EL Haynes PCS Middle School,PARCC,Math,Grades 9-12,All,31.00%,2400
+2016-17,EL Haynes PCS Middle School,PARCC,ELA,Grade 5,All,28.00%,2400
+2016-17,EL Haynes PCS Middle School,PARCC,Math,Grade 8,All,2.90%,2400
+2016-17,EL Haynes PCS Middle School,PARCC,Math,Grade 5,All,30.00%,2400
+2016-17,EL Haynes PCS Middle School,PARCC,ELA,Grade 8,All,20.00%,2400
+2016-17,EL Haynes PCS Middle School,PARCC,Math,Grades 9-12,All,23.10%,2400
+2016-17,Eliot Hine MS,PARCC,Math,Grade 8,All,0.00%,8000.02
+2016-17,Eliot Hine MS,PARCC,ELA,Grade 8,All,7.70%,8000.02
+2016-17,Elsie Whitlow Stokes Community Freedom PCS,PARCC,ELA,Grade 5,All,63.00%,9500.04
+2016-17,Elsie Whitlow Stokes Community Freedom PCS,PARCC,Math,Grade 5,All,39.10%,9500.04
+2016-17,Excel Academy PCS,PARCC,ELA,Grade 5,All,20.40%,7400.01
+2016-17,Excel Academy PCS,PARCC,Math,Grade 5,All,4.10%,7400.01
+2016-17,Excel Academy PCS,PARCC,ELA,Grade 8,All,18.80%,7400.01
+2016-17,Excel Academy PCS,PARCC,Math,Grade 8,All,15.60%,7400.01
+2016-17,Friendship PCS Armstrong,PARCC,Math,Grade 5,All,24.40%,4600
+2016-17,Friendship PCS Armstrong,PARCC,ELA,Grade 5,All,22.00%,4600
+2016-17,Friendship PCS Blow Pierce Middle School,PARCC,ELA,Grade 5,All,17.60%,7900.03
+2016-17,Friendship PCS Blow Pierce Middle School,PARCC,Math,Grade 5,All,11.80%,7900.03
+2016-17,Friendship PCS Blow Pierce Middle School,PARCC,Math,Grade 8,All,32.50%,7900.03
+2016-17,Friendship PCS Blow Pierce Middle School,PARCC,ELA,Grade 8,All,17.50%,7900.03
+2016-17,Friendship PCS Chamberlain Middle School,PARCC,ELA,Grade 8,All,20.80%,7100
+2016-17,Friendship PCS Chamberlain Middle School,PARCC,Math,Grade 8,All,37.00%,7100
+2016-17,Friendship PCS Chamberlain Middle School,PARCC,ELA,Grade 5,All,15.50%,7100
+2016-17,Friendship PCS Chamberlain Middle School,PARCC,Math,Grade 5,All,30.60%,7100
+2016-17,Friendship PCS Collegiate Academy,PARCC,ELA,Grades 9-12,All,12.50%,7800.03
+2016-17,Friendship PCS Collegiate Academy,PARCC,Math,Grades 9-12,All,3.50%,7800.03
+2016-17,Friendship PCS Southeast Academy,PARCC,Math,Grade 5,All,6.30%,10400
+2016-17,Friendship PCS Southeast Academy,PARCC,ELA,Grade 5,All,11.10%,10400
+2016-17,Friendship PCS Technology Preparatory Academy High School,PARCC,Math,Grades 9-12,All,0.00%,10400
+2016-17,Friendship PCS Technology Preparatory Academy High School,PARCC,ELA,Grades 9-12,All,13.30%,10400
+2016-17,Friendship PCS Technology Preparatory Academy Middle,PARCC,ELA,Grade 8,All,23.40%,10400
+2016-17,Friendship PCS Technology Preparatory Academy Middle,PARCC,Math,Grade 8,All,7.80%,10400
+2016-17,Friendship PCS Woodridge Middle School,PARCC,Math,Grade 5,All,32.60%,11100
+2016-17,Friendship PCS Woodridge Middle School,PARCC,Math,Grade 8,All,16.70%,11100
+2016-17,Friendship PCS Woodridge Middle School,PARCC,ELA,Grade 8,All,13.30%,11100
+2016-17,Friendship PCS Woodridge Middle School,PARCC,ELA,Grade 5,All,27.90%,11100
+2016-17,Garfield ES,PARCC,ELA,Grade 5,All,37.80%,7400.08
+2016-17,Garfield ES,PARCC,Math,Grade 5,All,21.60%,7400.08
+2016-17,H D Cooke ES,PARCC,ELA,Grade 5,All,26.10%,3800
+2016-17,H D Cooke ES,PARCC,Math,Grade 5,All,34.80%,3800
+2016-17,Hardy MS,PARCC,Math,Grades 9-12,All,94.10%,200.02
+2016-17,Hardy MS,PARCC,ELA,Grade 8,All,42.30%,200.02
+2016-17,Hardy MS,PARCC,Math,Grade 8,All,17.30%,200.02
+2016-17,Hardy MS,PARCC,Math,Grades 9-12,All,92.00%,200.02
+2016-17,Hart MS,PARCC,Math,Grade 8,All,2.70%,9800.04
+2016-17,Hart MS,PARCC,ELA,Grade 8,All,5.30%,9800.04
+2016-17,Hearst ES,PARCC,ELA,Grade 5,All,77.80%,600
+2016-17,Hearst ES,PARCC,Math,Grade 5,All,62.20%,600
+2016-17,Hendley ES,PARCC,ELA,Grade 5,All,3.10%,9800.11
+2016-17,Hendley ES,PARCC,Math,Grade 5,All,1.50%,9800.11
+2016-17,Hope Community PCS Lamond,PARCC,Math,Grade 5,All,7.40%,9500.05
+2016-17,Hope Community PCS Lamond,PARCC,ELA,Grade 5,All,37.00%,9500.05
+2016-17,Hope Community PCS Tolson,PARCC,Math,Grade 5,All,16.00%,9200.01
+2016-17,Hope Community PCS Tolson,PARCC,ELA,Grade 5,All,32.00%,9200.01
+2016-17,Houston ES,PARCC,Math,Grade 5,All,5.70%,7800.06
+2016-17,Houston ES,PARCC,ELA,Grade 5,All,11.40%,7800.06
+2016-17,Howard University Middle School of Mathematics and Science PCS,PARCC,ELA,Grade 8,All,23.50%,3400
+2016-17,Howard University Middle School of Mathematics and Science PCS,PARCC,Math,Grade 8,All,19.10%,3400
+2016-17,Hyde Addison ES,PARCC,Math,Grade 5,All,52.90%,3500
+2016-17,Hyde Addison ES,PARCC,ELA,Grade 5,All,62.90%,3500
+2016-17,IDEA PCS,PARCC,ELA,Grades 9-12,All,15.50%,7800.06
+2016-17,IDEA PCS,PARCC,Math,Grades 9-12,All,9.00%,7800.06
+2016-17,J O Wilson ES,PARCC,Math,Grade 5,All,25.00%,10600
+2016-17,J O Wilson ES,PARCC,ELA,Grade 5,All,20.50%,10600
+2016-17,Janney ES,PARCC,ELA,Grade 5,All,86.70%,1000.01
+2016-17,Janney ES,PARCC,Math,Grade 5,All,81.10%,1000.01
+2016-17,Jefferson Middle School Academy,PARCC,ELA,Grade 8,All,14.00%,10200
+2016-17,Jefferson Middle School Academy,PARCC,Math,Grade 8,All,2.80%,10200
+2016-17,Johnson John Hayden MS,PARCC,Math,Grade 8,All,2.10%,7400.04
+2016-17,Johnson John Hayden MS,PARCC,ELA,Grade 8,All,2.10%,7400.04
+2016-17,Kelly Miller MS,PARCC,ELA,Grade 8,All,9.20%,7800.04
+2016-17,Kelly Miller MS,PARCC,Math,Grade 8,All,4.10%,7800.04
+2016-17,Ketcham ES,PARCC,ELA,Grade 5,All,7.40%,7500.03
+2016-17,Ketcham ES,PARCC,Math,Grade 5,All,29.60%,7500.03
+2016-17,Key ES,PARCC,ELA,Grade 5,All,73.00%,900.02
+2016-17,Key ES,PARCC,Math,Grade 5,All,64.90%,900.02
+2016-17,Kimball ES,PARCC,Math,Grade 5,All,18.40%,9900.01
+2016-17,Kimball ES,PARCC,ELA,Grade 5,All,10.50%,9900.01
+2016-17,King M L ES,PARCC,ELA,Grade 5,All,2.20%,9800.04
+2016-17,King M L ES,PARCC,Math,Grade 5,All,6.70%,9800.04
+2016-17,Kingsman Academy PCS,PARCC,Math,Grades 9-12,All,0.00%,8000.01
+2016-17,Kingsman Academy PCS,PARCC,ELA,Grades 9-12,All,0.00%,8000.01
+2016-17,KIPP DC AIM Academy PCS,PARCC,Math,Grade 8,All,35.00%,7400.07
+2016-17,KIPP DC AIM Academy PCS,PARCC,ELA,Grade 5,All,20.40%,7400.07
+2016-17,KIPP DC AIM Academy PCS,PARCC,ELA,Grade 8,All,41.30%,7400.07
+2016-17,KIPP DC AIM Academy PCS,PARCC,Math,Grade 5,All,40.80%,7400.07
+2016-17,KIPP DC College Preparatory Academy PCS,PARCC,Math,Grades 9-12,All,27.30%,8800.03
+2016-17,KIPP DC College Preparatory Academy PCS,PARCC,ELA,Grades 9-12,All,30.40%,8800.03
+2016-17,KIPP DC KEY Academy PCS,PARCC,ELA,Grade 5,All,40.40%,9900.07
+2016-17,KIPP DC KEY Academy PCS,PARCC,Math,Grade 5,All,56.20%,9900.07
+2016-17,KIPP DC KEY Academy PCS,PARCC,ELA,Grade 8,All,44.90%,9900.07
+2016-17,KIPP DC KEY Academy PCS,PARCC,Math,Grade 8,All,46.20%,9900.07
+2016-17,KIPP DC Northeast Academy PCS,PARCC,Math,Grade 5,All,23.20%,8800.04
+2016-17,KIPP DC Northeast Academy PCS,PARCC,Math,Grade 8,All,16.50%,8800.04
+2016-17,KIPP DC Northeast Academy PCS,PARCC,ELA,Grade 8,All,40.00%,8800.04
+2016-17,KIPP DC Northeast Academy PCS,PARCC,ELA,Grade 5,All,42.00%,8800.04
+2016-17,KIPP DC Valor Academy PCS,PARCC,Math,Grade 5,All,19.30%,7800.08
+2016-17,KIPP DC Valor Academy PCS,PARCC,ELA,Grade 5,All,23.90%,7800.08
+2016-17,KIPP DC WILL Academy PCS,PARCC,ELA,Grade 5,All,24.70%,9900.07
+2016-17,KIPP DC WILL Academy PCS,PARCC,Math,Grade 8,All,38.50%,9900.07
+2016-17,KIPP DC WILL Academy PCS,PARCC,Math,Grade 5,All,29.20%,9900.07
+2016-17,KIPP DC WILL Academy PCS,PARCC,ELA,Grade 8,All,25.60%,9900.07
+2016-17,Kramer MS,PARCC,Math,Grade 8,All,0.00%,7600.01
+2016-17,Kramer MS,PARCC,ELA,Grade 8,All,5.20%,7600.01
+2016-17,Lafayette ES,PARCC,ELA,Grade 5,All,88.30%,1500
+2016-17,Lafayette ES,PARCC,Math,Grade 5,All,89.20%,1500
+2016-17,Langdon ES,PARCC,Math,Grade 5,All,17.10%,11100
+2016-17,Langdon ES,PARCC,ELA,Grade 5,All,20.00%,11100
+2016-17,LaSalle Backus EC,PARCC,Math,Grade 5,All,28.90%,9500.07
+2016-17,LaSalle Backus EC,PARCC,ELA,Grade 5,All,5.30%,9500.07
+2016-17,LaSalle Backus EC,PARCC,Math,Grade 8,All,6.30%,9500.07
+2016-17,LaSalle Backus EC,PARCC,ELA,Grade 8,All,21.90%,9500.07
+2016-17,Leckie ES,PARCC,Math,Grade 5,All,9.30%,9800.07
+2016-17,Leckie ES,PARCC,ELA,Grade 5,All,22.70%,9800.07
+2016-17,Ludlow Taylor ES,PARCC,ELA,Grade 5,All,69.20%,8300.02
+2016-17,Ludlow Taylor ES,PARCC,Math,Grade 5,All,46.20%,8300.02
+2016-17,Luke Moore Alternative HS,PARCC,ELA,Grades 9-12,All,0.00%,9300.01
+2016-17,Luke Moore Alternative HS,PARCC,Math,Grades 9-12,All,0.00%,9300.01
+2016-17,Malcolm X ES at Green,PARCC,Math,Grade 5,All,0.00%,7300.04
+2016-17,Malcolm X ES at Green,PARCC,ELA,Grade 5,All,7.70%,7300.04
+2016-17,Mann ES,PARCC,Math,Grade 5,All,60.00%,800.01
+2016-17,Mann ES,PARCC,ELA,Grade 5,All,88.60%,800.01
+2016-17,Marie Reed ES at MacFarland,PARCC,ELA,Grade 5,All,33.30%,3800
+2016-17,Marie Reed ES at MacFarland,PARCC,Math,Grade 5,All,45.80%,3800
+2016-17,Mary McLeod Bethune  PCS Main,PARCC,ELA,Grade 5,All,26.90%,9300.01
+2016-17,Mary McLeod Bethune  PCS Main,PARCC,Math,Grade 5,All,23.10%,9300.01
+2016-17,Maury ES,PARCC,ELA,Grade 5,All,53.80%,8000.02
+2016-17,Maury ES,PARCC,Math,Grade 5,All,42.30%,8000.02
+2016-17,Maya Angelou PCS - High School,PARCC,Math,Grades 9-12,All,0.00%,7800.08
+2016-17,Maya Angelou PCS - High School,PARCC,ELA,Grades 9-12,All,0.00%,7800.08
+2016-17,McKinley MS,PARCC,Math,Grade 8,All,4.80%,8700.01
+2016-17,McKinley MS,PARCC,ELA,Grade 8,All,25.00%,8700.01
+2016-17,McKinley Technology HS,PARCC,Math,Grades 9-12,All,18.90%,8700.01
+2016-17,McKinley Technology HS,PARCC,ELA,Grades 9-12,All,41.10%,8700.01
+2016-17,Meridian PCS,PARCC,ELA,Grade 8,All,30.00%,4400
+2016-17,Meridian PCS,PARCC,ELA,Grade 5,All,24.10%,4400
+2016-17,Meridian PCS,PARCC,Math,Grade 8,All,12.00%,4400
+2016-17,Meridian PCS,PARCC,Math,Grade 5,All,11.10%,4400
+2016-17,Miner ES,PARCC,ELA,Grade 5,All,14.00%,7900.01
+2016-17,Miner ES,PARCC,Math,Grade 5,All,0.00%,7900.01
+2016-17,Moten ES,PARCC,ELA,Grade 5,All,10.90%,7400.07
+2016-17,Moten ES,PARCC,Math,Grade 5,All,4.30%,7400.07
+2016-17,Mundo Verde Bilingual PCS,PARCC,ELA,Grade 5,All,52.70%,4600
+2016-17,Mundo Verde Bilingual PCS,PARCC,Math,Grade 5,All,36.40%,4600
+2016-17,Murch ES,PARCC,Math,Grade 5,All,73.60%,1100
+2016-17,Murch ES,PARCC,ELA,Grade 5,All,88.90%,1100
+2016-17,Nalle ES,PARCC,ELA,Grade 5,All,29.00%,9900.04
+2016-17,Nalle ES,PARCC,Math,Grade 5,All,19.40%,9900.04
+2016-17,National Collegiate Preparatory PCHS,PARCC,ELA,Grades 9-12,All,7.70%,9800.11
+2016-17,National Collegiate Preparatory PCHS,PARCC,Math,Grades 9-12,All,1.60%,9800.11
+2016-17,Orr ES,PARCC,Math,Grade 5,All,9.40%,7600.01
+2016-17,Orr ES,PARCC,ELA,Grade 5,All,21.90%,7600.01
+2016-17,Oyster Adams Bilingual School,PARCC,Math,Grades 9-12,All,36.00%,500.01
+2016-17,Oyster Adams Bilingual School,PARCC,Math,Grades 9-12,All,36.00%,500.01
+2016-17,Oyster Adams Bilingual School,PARCC,ELA,Grade 5,All,71.00%,500.01
+2016-17,Oyster Adams Bilingual School,PARCC,Math,Grade 5,All,47.80%,500.01
+2016-17,Oyster Adams Bilingual School,PARCC,ELA,Grade 8,All,53.30%,500.01
+2016-17,Patterson ES,PARCC,ELA,Grade 5,All,9.10%,9800.07
+2016-17,Patterson ES,PARCC,Math,Grade 5,All,9.10%,9800.07
+2016-17,Paul PCS International High School,PARCC,ELA,Grades 9-12,All,8.90%,1900.01
+2016-17,Paul PCS International High School,PARCC,Math,Grades 9-12,All,6.10%,1900.01
+2016-17,Paul PCS Middle School,PARCC,ELA,Grade 8,All,26.40%,1900.01
+2016-17,Paul PCS Middle School,PARCC,Math,Grade 8,All,25.00%,1900.01
+2016-17,Payne ES,PARCC,Math,Grade 5,All,14.70%,6900
+2016-17,Payne ES,PARCC,ELA,Grade 5,All,12.10%,6900
+2016-17,Phelps Architecture Construction and Engineering HS,PARCC,ELA,Grades 9-12,All,23.00%,8900.04
+2016-17,Phelps Architecture Construction and Engineering HS,PARCC,Math,Grades 9-12,All,9.10%,8900.04
+2016-17,Plummer ES,PARCC,ELA,Grade 5,All,9.50%,9900.06
+2016-17,Plummer ES,PARCC,Math,Grade 5,All,16.70%,9900.06
+2016-17,Powell ES,PARCC,ELA,Grade 5,All,11.80%,2500.02
+2016-17,Powell ES,PARCC,Math,Grade 5,All,34.60%,2500.02
+2016-17,Randle Highlands ES,PARCC,ELA,Grade 5,All,10.50%,7600.04
+2016-17,Randle Highlands ES,PARCC,Math,Grade 5,All,15.80%,7600.04
+2016-17,Raymond EC,PARCC,ELA,Grade 5,All,21.60%,2500.02
+2016-17,Raymond EC,PARCC,Math,Grade 5,All,15.70%,2500.02
+2016-17,Raymond EC,PARCC,ELA,Grade 8,All,21.70%,2500.02
+2016-17,Raymond EC,PARCC,Math,Grade 8,All,15.20%,2500.02
+2016-17,Richard Wright PCS for Journalism and Media Arts,PARCC,ELA,Grades 9-12,All,24.60%,7200
+2016-17,Richard Wright PCS for Journalism and Media Arts,PARCC,Math,Grades 9-12,All,8.20%,7200
+2016-17,Roosevelt HS,PARCC,ELA,Grades 9-12,All,9.40%,2500.01
+2016-17,Roosevelt HS,PARCC,Math,Grades 9-12,All,3.90%,2500.01
+2016-17,Savoy ES,PARCC,ELA,Grade 5,All,6.30%,7400.01
+2016-17,Savoy ES,PARCC,Math,Grade 5,All,3.10%,7400.01
+2016-17,School Without Walls at Francis Stevens,PARCC,ELA,Grade 8,All,50.00%,5500
+2016-17,School Without Walls at Francis Stevens,PARCC,ELA,Grade 5,All,39.00%,5500
+2016-17,School Without Walls at Francis Stevens,PARCC,Math,Grade 8,All,3.70%,5500
+2016-17,School Without Walls at Francis Stevens,PARCC,Math,Grade 5,All,43.90%,5500
+2016-17,School Without Walls HS,PARCC,Math,Grades 9-12,All,68.70%,5500
+2016-17,School Without Walls HS,PARCC,ELA,Grades 9-12,All,85.00%,5500
+2016-17,SEED PCS of Washington DC,PARCC,ELA,Grade 8,All,7.70%,7700.03
+2016-17,SEED PCS of Washington DC,PARCC,Math,Grade 8,All,6.20%,7700.03
+2016-17,SEED PCS of Washington DC,PARCC,Math,Grades 9-12,All,4.80%,7700.03
+2016-17,SEED PCS of Washington DC,PARCC,ELA,Grades 9-12,All,19.00%,7700.03
+2016-17,Shepherd ES,PARCC,Math,Grade 5,All,51.90%,1600
+2016-17,Shepherd ES,PARCC,ELA,Grade 5,All,53.80%,1600
+2016-17,Simon ES,PARCC,ELA,Grade 5,All,2.60%,9800.04
+2016-17,Simon ES,PARCC,Math,Grade 5,All,7.70%,9800.04
+2016-17,Smothers ES,PARCC,Math,Grade 5,All,0.00%,7800.03
+2016-17,Smothers ES,PARCC,ELA,Grade 5,All,4.00%,7800.03
+2016-17,Somerset Preparatory Academy PCS,PARCC,ELA,Grades 9-12,All,14.30%,9800.04
+2016-17,Somerset Preparatory Academy PCS,PARCC,Math,Grade 8,All,2.40%,9800.04
+2016-17,Somerset Preparatory Academy PCS,PARCC,ELA,Grade 8,All,7.20%,9800.04
+2016-17,Somerset Preparatory Academy PCS,PARCC,Math,Grades 9-12,All,7.10%,9800.04
+2016-17,Sousa MS,PARCC,Math,Grade 8,All,4.20%,7700.03
+2016-17,Sousa MS,PARCC,ELA,Grade 8,All,11.00%,7700.03
+2016-17,Stanton ES,PARCC,ELA,Grade 5,All,7.50%,7500.02
+2016-17,Stanton ES,PARCC,Math,Grade 5,All,6.00%,7500.02
+2016-17,Stoddert ES,PARCC,Math,Grade 5,All,82.40%,700.02
+2016-17,Stoddert ES,PARCC,ELA,Grade 5,All,86.30%,700.02
+2016-17,Stuart Hobson MS Capitol Hill Cluster,PARCC,ELA,Grade 8,All,37.10%,8300.01
+2016-17,Stuart Hobson MS Capitol Hill Cluster,PARCC,Math,Grade 8,All,4.10%,8300.01
+2016-17,Stuart Hobson MS Capitol Hill Cluster,PARCC,Math,Grades 9-12,All,35.70%,8300.01
+2016-17,Stuart Hobson MS Capitol Hill Cluster,PARCC,Math,Grades 9-12,All,35.70%,8300.01
+2016-17,Takoma EC,PARCC,Math,Grade 5,All,23.10%,10300
+2016-17,Takoma EC,PARCC,Math,Grade 8,All,10.30%,10300
+2016-17,Takoma EC,PARCC,ELA,Grade 5,All,30.80%,10300
+2016-17,Takoma EC,PARCC,ELA,Grade 8,All,31.60%,10300
+2016-17,The Children's Guild PCS,PARCC,Math,Grade 5,All,2.40%,11100
+2016-17,The Children's Guild PCS,PARCC,ELA,Grade 5,All,2.40%,11100
+2016-17,Thomas ES,PARCC,Math,Grade 5,All,11.40%,9600.02
+2016-17,Thomas ES,PARCC,ELA,Grade 5,All,20.00%,9600.02
+2016-17,Thomson ES,PARCC,Math,Grade 5,All,61.50%,10100
+2016-17,Thomson ES,PARCC,ELA,Grade 5,All,51.30%,10100
+2016-17,Thurgood Marshall Academy PCS,PARCC,ELA,Grades 9-12,All,27.80%,7400.01
+2016-17,Thurgood Marshall Academy PCS,PARCC,Math,Grades 9-12,All,10.60%,7400.01
+2016-17,Truesdell EC,PARCC,Math,Grade 5,All,20.70%,2100.02
+2016-17,Truesdell EC,PARCC,ELA,Grade 5,All,36.80%,2100.02
+2016-17,Truesdell EC,PARCC,ELA,Grade 8,All,35.20%,2100.02
+2016-17,Truesdell EC,PARCC,Math,Grade 8,All,22.20%,2100.02
+2016-17,Tubman ES,PARCC,ELA,Grade 5,All,21.10%,3000
+2016-17,Tubman ES,PARCC,Math,Grade 5,All,26.40%,3000
+2016-17,Turner ES,PARCC,ELA,Grade 5,All,6.40%,7400.04
+2016-17,Turner ES,PARCC,Math,Grade 5,All,10.40%,7400.04
+2016-17,Two Rivers PCS 4th St,PARCC,ELA,Grade 5,All,41.70%,10600
+2016-17,Two Rivers PCS 4th St,PARCC,ELA,Grade 8,All,52.30%,10600
+2016-17,Two Rivers PCS 4th St,PARCC,Math,Grade 8,All,19.20%,10600
+2016-17,Two Rivers PCS 4th St,PARCC,Math,Grade 5,All,41.70%,10600
+2016-17,Tyler ES,PARCC,ELA,Grade 5,All,19.40%,7000
+2016-17,Tyler ES,PARCC,Math,Grade 5,All,22.20%,7000
+2016-17,Walker Jones EC,PARCC,ELA,Grade 5,All,16.00%,4700.01
+2016-17,Walker Jones EC,PARCC,Math,Grade 8,All,9.70%,4700.01
+2016-17,Walker Jones EC,PARCC,Math,Grade 5,All,8.00%,4700.01
+2016-17,Walker Jones EC,PARCC,ELA,Grade 8,All,10.00%,4700.01
+2016-17,Washington Global PCS,PARCC,ELA,Grade 8,All,16.40%,10200
+2016-17,Washington Global PCS,PARCC,Math,Grade 8,All,1.80%,10200
+2016-17,Washington Latin PCS Middle School,PARCC,Math,Grade 8,All,57.30%,2100.02
+2016-17,Washington Latin PCS Middle School,PARCC,Math,Grade 5,All,50.60%,2100.02
+2016-17,Washington Latin PCS Middle School,PARCC,ELA,Grade 5,All,54.00%,2100.02
+2016-17,Washington Latin PCS Middle School,PARCC,ELA,Grade 8,All,77.50%,2100.02
+2016-17,Washington Latin PCS Upper School,PARCC,Math,Grades 9-12,All,45.80%,2100.02
+2016-17,Washington Latin PCS Upper School,PARCC,ELA,Grades 9-12,All,71.40%,2100.02
+2016-17,Washington Mathematics Science Technology PCHS,PARCC,ELA,Grades 9-12,All,20.80%,11100
+2016-17,Washington Mathematics Science Technology PCHS,PARCC,Math,Grades 9-12,All,5.30%,11100
+2016-17,Washington Metropolitan HS,PARCC,Math,Grades 9-12,All,0.00%,3400
+2016-17,Washington Metropolitan HS,PARCC,ELA,Grades 9-12,All,0.00%,3400
+2016-17,Washington Yu Ying PCS,PARCC,Math,Grade 5,All,71.20%,9500.01
+2016-17,Washington Yu Ying PCS,PARCC,ELA,Grade 5,All,78.80%,9500.01
+2016-17,Watkins ES Capitol Hill Cluster,PARCC,Math,Grade 5,All,36.80%,6900
+2016-17,Watkins ES Capitol Hill Cluster,PARCC,ELA,Grade 5,All,43.40%,6900
+2016-17,Wheatley EC,PARCC,ELA,Grade 8,All,16.00%,8800.02
+2016-17,Wheatley EC,PARCC,Math,Grade 5,All,0.00%,8800.02
+2016-17,Wheatley EC,PARCC,ELA,Grade 5,All,6.90%,8800.02
+2016-17,Wheatley EC,PARCC,Math,Grade 8,All,16.00%,8800.02
+2016-17,Whittier EC,PARCC,Math,Grade 8,All,11.10%,1900.02
+2016-17,Whittier EC,PARCC,Math,Grade 5,All,14.80%,1900.02
+2016-17,Whittier EC,PARCC,ELA,Grade 5,All,33.30%,1900.02
+2016-17,Whittier EC,PARCC,ELA,Grade 8,All,26.90%,1900.02
+2016-17,Wilson HS,PARCC,Math,Grades 9-12,All,21.70%,1100
+2016-17,Wilson HS,PARCC,ELA,Grades 9-12,All,54.10%,1100
+2016-17,Woodson H D HS,PARCC,Math,Grades 9-12,All,0.00%,7800.07
+2016-17,Woodson H D HS,PARCC,ELA,Grades 9-12,All,8.40%,7800.07
